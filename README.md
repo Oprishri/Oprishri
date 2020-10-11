@@ -6,9 +6,9 @@ I am priya Sinha and I am good in Machine learning and Deep learning. I python l
 
 
 - 📫 Get in touch: ...
-    LinkedIn- linkedin.com/in/priya-sinha-654670176
-    HackerRank- https://www.hackerrank.com/sinhapriyapssp
-    Email id- sinhapriyapssp@gmail.com
+    - LinkedIn- linkedin.com/in/priya-sinha-654670176
+    - HackerRank- https://www.hackerrank.com/sinhapriyapssp
+    - Email id- sinhapriyapssp@gmail.com
 
 
 
