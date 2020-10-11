@@ -1,13 +1,21 @@
 ### Hi there 👋 I am Priya Sinha :woman:
 <img src="https://media.giphy.com/media/3o7aCZVnVV2efQgIko/giphy.gif"/>
 
-I am priya Sinha and I am good in Machine learning and Deep learning. I use python for Data science.
+I am good at Machine learning and Deep learning. I use python for Data science.
 
 - 🔭 I am currently learning data science things.
 - 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
+require 'rugged'
+require 'linguist'
+
+repo = Rugged::Repository.new('.')
+project = Linguist::Repository.new(repo, repo.head.target_id)
+project.language       #=> "Ruby"
+project.languages      #=> { "Ruby" => 119387 }
+
 - 🌱 Hobby
-    - Learning on daily basis is my hobby.
+    - Learning on the daily basis.
 
 - 📫 Get in touch: ...
     - LinkedIn- https://www.linkedin.com/in/priya-sinha-654670176/
