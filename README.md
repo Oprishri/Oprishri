@@ -4,9 +4,9 @@
 I am priya Sinha and I am good in Machine learning and Deep learning. I use python for Data science.
 
 - 🔭 I am currently learning data science things.
-- 🌱 I have completed my masters in Data Science from Central University Of Rajasthan.
+- 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
-- Hobby
+- 🌱 Hobby
     - Learning on daily basis is my hobby.
 
 - 📫 Get in touch: ...
