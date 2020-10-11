@@ -6,14 +6,6 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 - 🔭 I am currently learning data science things.
 - 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
-require 'rugged'
-require 'linguist'
-
-repo = Rugged::Repository.new('.')
-project = Linguist::Repository.new(repo, repo.head.target_id)
-project.language       #=> "Ruby"
-project.languages      #=> { "Ruby" => 119387 }
-
 - 🌱 Hobby
     - Learning on the daily basis.
 
