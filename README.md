@@ -42,6 +42,7 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 <p align="center">
 <a href="https://www.linkedin.com/in/priya-sinha-654670176/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:sinhapriyapssp@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.hackerrank.com/sinhapriyapssp"> <img src="https://camo.githubusercontent.com/1cec5ff1ecf483a5a1f8e664d2a31bde2e8fe30d/68747470733a2f2f626c6f672e6379737461636b2e6e65742f636f6e74656e742f696d616765732f323031392f30352f6861636b657272616e6b2e706e67" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
