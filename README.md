@@ -19,6 +19,7 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 <img src="https://img2.pngio.com/notepad-text-editor-source-code-editor-png-clipart-area-source-code-editor-png-728_426.jpg" alt="Notepad++" height="40" style="vertical-align:top; margin:4px">
 <img src="http://twimgs.com/informationweek/galleries/automated/723/01_Hadoop_full.jpg" alt="Hadoop" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?w=350&ssl=1" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" alt="Google Colab" height="40" style="vertical-align:top; margin:4px">
 </p>
 </p>
 
