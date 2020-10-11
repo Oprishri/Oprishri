@@ -13,6 +13,8 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<img src="2wCEAAkGBw8QDg8QEBAQDxAQEA8QEBUPDw8OEBAOFREYFhUSFRgYHSghGBoqGxcYITEhJyktLi4vFx8zODMsNygtLisBCgoKDg0OGhAQFy0dHyA3Ky0rLy0tLS4tLSstLS0tKy0tLSs3LS0tKystLS0tLS0tLSstLS0tLSstLS0tLS0rLf" alt="R" height="40" style="vertical-align:top; margin:4px">
+
 - 🌱 Hobby
     - Learning on the daily basis.
 
