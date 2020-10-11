@@ -6,11 +6,12 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 - 🔭 I am currently learning data science things.
 - 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
-## :heart_eyes: Area of interest:
+## :heart_eyes: Area of Interest:
 <p align="center">
 <img src="https://previews.123rf.com/images/aimage/aimage1511/aimage151100042/49162966-machine-learning-concept-innovative-new-technology.jpg" alt="ML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://hub.jovian.ml/wp-content/uploads/2019/12/nlpblog.png" alt="NLP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.favpng.com/9/22/13/deeplearni-ng-deep-learning-artificial-intelligence-machine-learning-company-png-favpng-Siu0Q537qJmkeWuW73xiaxaWY.jpg" alt="DL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-images-1.medium.com/max/1920/1*mAUTAUBnVPh-W51WhfMvSA.jpeg" alt="CV" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 Languages and Tools:
