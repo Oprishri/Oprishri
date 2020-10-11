@@ -38,6 +38,13 @@ I am good at Machine learning and Deep learning. I use python for Data science.
     LinkedIn- https://www.linkedin.com/in/priya-sinha-654670176/
     HackerRank- https://www.hackerrank.com/sinhapriyapssp
     Email id- sinhapriyapssp@gmail.com
+    
+    <p align="center">
+ <a href="https://www.linkedin.com/in/priya-sinha-654670176/" target="_blank" rel="noopener noreferrer"> <img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 
 
 
