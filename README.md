@@ -1,5 +1,7 @@
 ### Hi there 👋
-<center> <img src="https://media.giphy.com/media/l3vQX4BAzmmXX6hBC/giphy.gif"/> </center>
+<center> 
+    <img src="https://media.giphy.com/media/l3vQX4BAzmmXX6hBC/giphy.gif"/>
+</center>
 
 I am priya Sinha and I am good in Machine learning and Deep learning. I use python for Data science.
 
