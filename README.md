@@ -16,9 +16,11 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 <img src="https://soshace-12d3e.kxcdn.com/wp-content/uploads/rcl-uploads/articles/2020/08/3992502.jpg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://webme.ie/wp-content/uploads/2019/01/How-to-run-a-python-app-with-docker-compose.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.favpng.com/5/7/18/atom-text-editor-source-code-editor-visual-studio-code-png-favpng-MfczF5T6EERBwtzxG3WweUfFH.jpg" alt="Atom" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img2.pngio.com/notepad-text-editor-source-code-editor-png-clipart-area-source-code-editor-png-728_426.jpg" alt="Notepad++" height="40" style="vertical-align:top; margin:4px">
+<img src="http://twimgs.com/informationweek/galleries/automated/723/01_Hadoop_full.jpg" alt="Hadoop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-- 🌱 Hobby
+## 🌱 Hobby:
     - Learning on the daily basis.
 
 - 📫 Get in touch: ...
