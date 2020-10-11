@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Priya Sinha :woman:
 <img src="https://media.giphy.com/media/3o7aCZVnVV2efQgIko/giphy.gif"/>
 
-I am good at Machine learning and Deep learning. I use python for Data science.
-
-- 🔭 I am currently learning data science things.
+- 🔭 I am good at Machine learning and Deep learning. I use python for Data science.
 - 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
 ## :heart_eyes: Area of Interest:
