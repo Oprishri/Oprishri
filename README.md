@@ -6,7 +6,7 @@ I am good at Machine learning and Deep learning. I use python for Data science.
 - 🔭 I am currently learning data science things.
 - 🔭 I have completed my masters in Data Science from Central University Of Rajasthan.
 
-## :insight: Area of interest:
+## :heart_eyes: Area of interest:
 
 ## 🧰 Languages and Tools:
 <p align="center">
