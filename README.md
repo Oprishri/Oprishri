@@ -30,7 +30,7 @@
 
 
 ## 🌱 Hobby:
-    Learning on the daily basis.
+    Learning on the daily basis, Gyming, Dancing and exploring.
 
 ## 📫 Get in touch: 
     
